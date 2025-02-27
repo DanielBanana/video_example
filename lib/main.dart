@@ -38,9 +38,9 @@ class MyApp extends StatelessWidget {
 class VideoState extends ChangeNotifier {
   List<String> videoNames = ["Shapes", "Poster", "Boxes"];
   List<String> videoFiles = [
-    "assets/shapes_rotation_ultra_short.mp4",
-    "assets/poster_rotation_short.mp4",
-    "assets/boxes_rotation_short.mp4",
+    "assets/shapes_rotation_short.mp4",
+    "assets/poster_rotation_ultra_short.mp4",
+    "assets/boxes_rotation_ultra_short.mp4",
   ];
   List<Icon> videoIcons = [
     Icon(Icons.play_arrow),
