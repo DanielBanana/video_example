@@ -58,7 +58,11 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - assets/
+    - assets/shapes_rotation_short.mp4
+    - assets/poster_rotation_ultra_short.mp4
+    - assets/boxes_rotation_ultra_short.mp4
+    - assets/video.mp4
+    - assets/OhmLogo.png
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
